@@ -3,6 +3,11 @@
 **LocknCode** is an interactive Streamlit-based application designed to help users **learn, experiment with, and visualize classical and modern cryptographic ciphers**.  
 The project provides a hands-on way to understand encryption and decryption techniques through an intuitive user interface.
 
+## 🌐 Live Demo
+
+Try the application live here:  
+👉 https://lockncode-ianeubzhatezdd6ccvucme.streamlit.app
+
 ---
 
 ## 🚀 Features
